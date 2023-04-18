@@ -41,5 +41,4 @@ for i in range(tablica.size):
 wyniki = np.array([probkowanie() for wynik in range(100000)])
 
 plt.hist(wyniki, bins=range(1, 101))
-
 plt.show()
