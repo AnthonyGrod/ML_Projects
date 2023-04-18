@@ -14,7 +14,6 @@ Problem 5c (Chi-square independence test).
     <br />
     $S = \\sum_{ij} \\frac{\\left(f_{ij}-X_{ij}\\right)^2}{f_{ij}}.$\
     <br />
-    Again test vs $\\chi^2$ CDF. However, if the variables are independent, we only have $(r-1)(c-1)$ degrees of freedom here (we only need to know the row and column totals).
-    The KORWiN party looks like an obvious outlier. Note, when we work with categorical variables we should not just remove a category -- it is better to aggregate them. Introduce an aggregated category by summing the votes for the parties with less than 5% total votes and repeat the experiment.
+    Again test vs $\\chi^2$ CDF.
   
 
