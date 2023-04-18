@@ -16,7 +16,7 @@ def sample(n):
 
 
 xList = np.linspace(-10, 10, 21)
-yList = [fn(x) for x in xList]
+yList = [fn(x) for x in xList] 
 
 n = 10000
 
