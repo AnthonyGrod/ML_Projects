@@ -12,7 +12,7 @@ Set of my private and university ML course problems. Tasks which I have solved a
     Compute the test statistic as before, i.e. 
     <br />
     <p align="center">
-    $S = \\sum_{ij} \\frac{\\left(f_{ij}-X_{ij}\\right)^2}{f_{ij}}.$\
+    <MATH> $S = \\sum_{ij} \\frac{\\left(f_{ij}-X_{ij}\\right)^2}{f_{ij}}.$\ </MATH>
     </p>
     Again test vs $\\chi^2$ CDF.
   
