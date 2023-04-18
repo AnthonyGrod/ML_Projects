@@ -19,7 +19,7 @@ res_BC = np.zeros((10, 10))
 def calculate_MSE(data_set_variant, res_arr):
     res_arr += (data_set_variant[k][2] - (1 / (1 + np.exp(-(w[0,:,:]*data_set_variant[k][0] + w[1,:,:]*data_set_variant[k][1])))))**2
 
-
+ 
 def plot_graph(res_arr, name):
     res_arr /= 5
     fig = plt.figure()
