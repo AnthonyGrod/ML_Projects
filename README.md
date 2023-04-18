@@ -1,8 +1,7 @@
 # ML_Projects
 Set of my private and university ML course problems. Tasks which I have solved are given below:
 
-1. Chi squared test
-Problem 5c (Chi-square independence test).
+1. Chi Squared Test (Chi-square independence test)
 
     You are given the results of IPSOS exit polls for 2015 parliamentary elections in Poland in table **data**. Decide if we can assume that gender and voting preferences are independent. To this end:
     <br />
@@ -16,4 +15,6 @@ Problem 5c (Chi-square independence test).
     <br />
     Again test vs $\\chi^2$ CDF.
   
+
+2. Discrete Sampling
 
