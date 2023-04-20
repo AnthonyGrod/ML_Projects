@@ -16,5 +16,4 @@ Set of my private and university ML course problems. Tasks which I have solved a
     Again test vs $\\chi^2$ CDF.
   
 
-2. Discrete Sampling
 
